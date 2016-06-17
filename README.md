@@ -1,6 +1,7 @@
+
 # Yummy Jekyll Theme
 
-A Simple, Bootstrap Based Theme. Especially for developers who like to show their projects on website and like to take notes. There are also some magical features to discover. 
+A Simple, Bootstrap Based Theme. Especially for developers who like to show their projects on website and like to take notes. There are also some magical features to discover.
 
 ## [Live Demo](http://dongchuan.github.io/)
 
@@ -14,7 +15,7 @@ Or contact: dongchuan55@gmail.com
 
 * Compatible with Jekyll 3.x and GitHub Pages
 * Based on Bootstrap
-* [Github Module](http://dongchuan.github.io/open-source) to show your popular projects in a single page and on sidebar automatically. (Datas are retreived by github metadata instead of by api calls, so no delay) 
+* [Github Module](http://dongchuan.github.io/open-source) to show your popular projects in a single page and on sidebar automatically. (Datas are retreived by github metadata instead of by api calls, so no delay)
 * [Post Module](http://dongchuan.github.io/blog) to show all your posts with timeline
 * [Bookmark Module](http://dongchuan.github.io/bookmark) to establish a quick mark about all libs/tools/books you like to use.
 * [Post Navigation Module](http://dongchuan.github.io/css/2016/04/22/CSS-Animation.html) to generat a quick directory of your post by titles/subtitles automatically.
@@ -42,7 +43,7 @@ Before using it, you may need [Bower](http://bower.io/) and [Bundler](http://bun
 > When install dependencies by bundler or gem, you may have some errors depending on your environment.
 
 > Error about `json`. Check response of [Massimo Fazzolari on Stackoverflow](http://stackoverflow.com/questions/8100891/the-json-native-gem-requires-installed-build-tools) to quick fix your problem. (Please also use latest version instead of 1.9.3 mentioned in the response)
-  
+
 > Error about `jekyll-paginate`. Please check [here](http://stackoverflow.com/questions/35401566/dont-have-jekyll-paginate-or-one-of-its-dependencies-installed)
 
 > Error about `SSL_connect`. Please check [here](http://stackoverflow.com/questions/15305350/gem-install-fails-with-openssl-failure) and [here](http://railsapps.github.io/openssl-certificate-verify-failed.html)
@@ -99,7 +100,7 @@ For example, [a demo post](https://github.com/DONGChuan/DONGChuan.github.io/edit
 
 #### [Github Module](http://dongchuan.github.io/open-source)
 
-This module will get automatically all your repository information from github. But to test on your local, you must keep internet connection. 
+This module will get automatically all your repository information from github. But to test on your local, you must keep internet connection.
 In the future, it will also show the repositories you contributed a lot and the ones of your organization.
 
 #### [Bookmark Module](http://dongchuan.github.io/bookmark)
@@ -130,3 +131,5 @@ The Apache License 2.0
 Copyright (c) 2016 DONG Chuan
 
 Check [LICENSE](https://github.com/DONGChuan/DONGChuan.github.io/blob/master/LICENSE) file and [official website](http://www.apache.org/licenses/LICENSE-2.0) for details
+
+# Website
