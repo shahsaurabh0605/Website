@@ -5,6 +5,9 @@ category: Internship
 tags: [internship]
 ---
 ## Internships
+
+Here I share my experience of the first internship
+
 An internship gives you a hands-on chance to apply the education and knowledge you gained, it also helps you strengthen your professional skills. Transferable skills like communication, teamwork, professional etiquette and work ethic can usually only be developed through actual experience. An internship is the best way to immerse yourself in the culture and gain relevant skills.
 
 ### “An expert in anything was once a beginner ”
