@@ -1,10 +1,14 @@
 <div class="about row">
 
     <div class="col-md-8">
+      <p>
+        <!--<h2>About me</h2>
 
-        <h2>About me</h2>
-
-        <p>BlaBlaBla BlaBlaBla BlaBlaBla BlaBlaBla BlaBlaBla BlaBlaBla BlaBlaBla BlaBlaBla</p>
+         write here  -->
+          <a class="link" href="/assets/files/Resumefinal.pdf" target="_blanks">
+              <h4>Download My CV</h4>
+          </a>
+        </p>
 
         <h2>Contact</h2>
 
@@ -12,6 +16,7 @@
             <li>Email：<a href="mailto:{{ site.email }}" target="_top">{{ site.email }}</a></li>
             <li>Website：<a href="{{ site.github_url }}">{{ site.github_url }}</a></li>
         </ul>
+
 
         <h2>Skill Keywords</h2>
 
@@ -22,19 +27,6 @@
             </div>
             <div class="panel-body">
                 {% for keyword in site.skill_software_keywords %}
-                <button class="btn btn-default" type="button">{{ keyword }}</button>
-                {% endfor %}
-            </div>
-        </div>
-        {% endif %}
-
-        {% if site.skill_j2ee_keywords %}
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h3 class="panel-title">J2EE Developer Keywords</h3>
-            </div>
-            <div class="panel-body">
-                {% for keyword in site.skill_j2ee_keywords %}
                 <button class="btn btn-default" type="button">{{ keyword }}</button>
                 {% endfor %}
             </div>
