@@ -18,7 +18,9 @@
 }
 
 .jumbotron {
-    background-image: url("http://thumbs.dreamstime.com/t/fondo-de-cuero-azul-profundo-55020099.jpg");
+    /*background-image: url("http://thumbs.dreamstime.com/t/fondo-de-cuero-azul-profundo-55020099.jpg");*/
+    background-color: #022d4d;
+    background-image: url(http://www.transparenttextures.com/patterns/black-linen.png);
 
     height: 600px
 }
