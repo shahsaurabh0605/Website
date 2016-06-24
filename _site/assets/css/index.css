@@ -14,12 +14,14 @@
 }
 
 .site-header a:hover {
-    color: #2e2e2e;
+    color: #fff;
 }
 
 .jumbotron {
-    background-image: url("https://c2.staticflickr.com/2/1418/5102299410_0e7e7bbe2b_z.jpg");
-    /*background-image: url("https://wallpaperscraft.com/image/black_background_pattern_light_texture_55291_1920x1080.jpg");*/
+    /*background-image: url("http://thumbs.dreamstime.com/t/fondo-de-cuero-azul-profundo-55020099.jpg");*/
+    background-color: #022d4d;
+    background-image: url(http://www.transparenttextures.com/patterns/black-linen.png);
+
     height: 600px
 }
 
